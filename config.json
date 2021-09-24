@@ -1,6 +1,6 @@
 {
 	"ip":"VanillaAno.aternos.me",
-	"port": "62356",
+	"port": "25565",
 	"name": "NBot",
 	"auto-night-skip":"true"
 }
